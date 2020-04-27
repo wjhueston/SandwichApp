@@ -82,7 +82,7 @@ namespace ConsoleApp2
         }
         public static void CustomizeHandler(string number, Item item)
         {
-            /*switch (number)
+            switch (number)
             {
                 case "1":
                     item.Customizations.Add("Oil");
@@ -116,7 +116,7 @@ namespace ConsoleApp2
                     break;
                 default: Console.WriteLine("Invalid Response. Please Try Again."); break;
             }
-            */
+            
         }
         
     }
